@@ -1,7 +1,22 @@
+Metadata-Version: 2.1
+Name: csvquerylite
+Version: 0.1.5
+Summary: Run SQL-like queries on CSV files using a simple Python library or CLI.
+Home-page: https://github.com/jah-117/csvquerylite
+Author: Jahfar Muhammed
+Author-email: jahfarbinmuhammed117@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # csvquerylite
 
-
-`csvquerylite` is a lightweight Python library and command-line tool that allows you to run SQL-like queries on CSV files easily. It’s designed for developers, analysts, and anyone who wants the power of SQL for CSV data without setting up a database.
+`csvquerylite` is a lightweight Python library and command-line tool that allows you to run SQL-like queries on CSV files easily. Itâ€™s designed for developers, analysts, and anyone who wants the power of SQL for CSV data without setting up a database.
 
 ---
 
@@ -102,4 +117,5 @@ Basic SQL-like support:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
->>>>>>> 8071857 (Initial commit: CSVQueryLite library)
+
+

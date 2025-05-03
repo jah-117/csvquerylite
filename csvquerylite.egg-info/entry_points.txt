@@ -1,0 +1,3 @@
+[console_scripts]
+csvquerylite = csv_query.main:main
+

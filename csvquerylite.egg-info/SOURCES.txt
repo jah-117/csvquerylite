@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+csv_query/__init__.py
+csv_query/core.py
+csv_query/main.py
+csvquerylite.egg-info/PKG-INFO
+csvquerylite.egg-info/SOURCES.txt
+csvquerylite.egg-info/dependency_links.txt
+csvquerylite.egg-info/entry_points.txt
+csvquerylite.egg-info/requires.txt
+csvquerylite.egg-info/top_level.txt
