@@ -50,6 +50,10 @@ git clone https://github.com/your-username/csv-query.git
 cd csv-query
 pip install -e .
 ```
+Install using pip:
+```bash
+pip install csvquerylite
+```
 
 ---
 
